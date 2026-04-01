@@ -28,4 +28,4 @@
 * `FightSimulator`: 객체지향 원리를 적용한 종합 게임 프로젝트.
 
 ---
-Copyright © 2026 JunHyuk Cho. All rights reserved.
+Copyright © 2025 JunHyuk Cho. All rights reserved.
